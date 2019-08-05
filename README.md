@@ -1,2 +1,2 @@
 # GENETIC-ALGORITHMS
-this are my genetic algorithms proyects :D
+this are my genetic algorithms proects :D
